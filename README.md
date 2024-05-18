@@ -19,3 +19,4 @@ Copy the entire script provided above.
 The script includes a 4-second delay between each invite request to avoid triggering rate limits or other restrictions.
 Ensure you are logged in to Twitter in the same browser where you are running this script.
 If you encounter issues with the provided bearer token, you can replace it with your own.
+This scripts only takes in consideration the DOM loaded groups and invites into those. If you want all, edit the script to use Twitter API to fetch all chats or scroll down to load all chats. What will be loaded in DOM will be registered
