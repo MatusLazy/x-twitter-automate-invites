@@ -9,7 +9,8 @@ Update the usernames array with the list of Twitter usernames you want to invite
 Copy the entire script provided above.
 
 # Run the Script in the Browser Console:
-- Open your Twitter homepage in the browser.
+- Login into your X account.
+- Navigate to https://x.com/messages/
 - Open the browser console (press Ctrl+Shift+I or F12 and navigate to the "Console" tab).
 - Paste the copied script into the console.
 - Press Enter to run the script.
